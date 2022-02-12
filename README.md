@@ -23,7 +23,7 @@ nodemon server.js
 #### 🟢 **/home**
 localhost:3000/home my app rendering index.html
 #### 🟢 **/quiz**
-get random quiz as json obj
+get random quiz as json object
 #### 🟢 **/checkbox/myanswers.json**
-return the number correct answers
+return the score from 0% to 100% 
 
