@@ -1,0 +1,134 @@
+  [
+    {
+      "id": 0,
+      "question": "How many planets are there in the solar system?",
+      "answers": [
+        "7",
+        "9",
+        "8",
+        "10"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 1,
+      "question": "How many teeth does an adult human have?",
+      "answers": [
+        "28",
+        "30",
+        "32",
+        "34"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 2,
+      "question": "What is the name of a famous explorer?",
+      "answers": [
+        "Vespucci",
+        "Machiavelli",
+        "Da Vinci",
+        "Galileo"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 3,
+      "question": "When did Rome fall into the hands of the Barbarians?",
+      "answers": [
+        "214 dC",
+        "612 dC",
+        "22 aC",
+        "472 dC"
+      ],
+      "correct": 3
+    },
+    {
+      "id": 4,
+      "question": "Which of these is a programming tool? ",
+      "answers": [
+        "VPN",
+        "Word",
+        "PowerPoint",
+        "HTML"
+      ],
+      "correct": 3
+    },
+    {
+      "id": 5,
+      "question": "How many were the kings of Rome?",
+      "answers": [
+        "7",
+        "5",
+        "13",
+        "3"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 6,
+      "question": "7x7 ?",
+      "answers": [
+        "47",
+        "42",
+        "49",
+        "56"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 7,
+      "question": "Which is the most populous country?",
+      "answers": [
+        "USA",
+        "Europe",
+        "China",
+        "India"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 8,
+      "question": "When did World War II start?",
+      "answers": [
+        "1945",
+        "1922",
+        "1939",
+        "1956"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 9,
+      "question": "Which of these was a physical one?",
+      "answers": [
+        "Shopenhouer",
+        "Hoppenheimer",
+        "Darwin",
+        "Kafka"
+      ],
+      "correct": 2
+    },
+    {
+      "id": 10,
+      "question":"What colors is the Belgian flag?",
+      "answers": [
+        "red-blue-black",
+        "yello-red-black",
+        "blue-white-black",
+        "red-black-green"
+      ],
+      "correct": 1
+    },
+    {
+      "id": 11,
+      "question": "At what age did Leonardo Da Vinci live?",
+      "answers": [
+        "classical period",
+        "renaissance period",
+        "medieval period",
+        "contemporary period"
+      ],
+      "correct": 1
+    }
+  ]

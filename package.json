@@ -1,0 +1,30 @@
+{
+  "name": "quiz-app-v2",
+  "version": "1.0.0",
+  "description": "Quiz game app with JavaScript, Bootstrap, nodejs & expressJS",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mathjs": "^10.0.2",
+    "node-fetch": "^3.2.0",
+    "package.json": "^2.0.1",
+    "serve-favicon": "^2.5.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erma0x/quizapp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/erma0x/quizapp/issues"
+  },
+  "homepage": "https://github.com/erma0x/quizapp#readme"
+}
